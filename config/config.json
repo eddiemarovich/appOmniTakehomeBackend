@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "edwardgeorgemarovich",
+    "password": null,
+    "database": "contacts",
+    "port": 5432,
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "edwardgeorgemarovich",
+    "password": null,
+    "database": "contacts",
+    "port": 5432,
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "edwardgeorgemarovich",
+    "password": null,
+    "database": "contacts",
+    "port": 5432,
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
