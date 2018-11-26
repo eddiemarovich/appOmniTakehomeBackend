@@ -3,6 +3,7 @@ const ContactDetails = require('../models').ContactDetails
 
 module.exports = {
   create(req, res) {
+    console.log(req.body);
     return Contact
       .create({
         title: req.body.title
